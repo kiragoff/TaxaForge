@@ -24,7 +24,7 @@ This script relies on the following R packages:
 ## Usage
 
 1. Place your taxonomic tables in your project directory.
-2. Update the configuration variables at the top of the chunks (such as file paths, target taxonomic level, and top-$N$ cutoffs).
+2. Update the configuration variables at the top of the chunks (such as file paths, target taxonomic level, and top N cutoffs).
 3. Run the script to generate and export the plot as a high-resolution PNG.
 
 ## Example Output
