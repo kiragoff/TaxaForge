@@ -28,6 +28,4 @@ This script relies on the following R packages:
 3. Run the script to generate and export the plot as a high-resolution PNG.
 
 ## Example Output
-
-*(Placeholder for output plot)*
-<!-- ![Example Bubble Plot](example_plot.png) -->
+<img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Genus_byPhylum_sample_top10_relative_20260822.png" height = "600px"> <img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px"> 
