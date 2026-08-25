@@ -29,3 +29,7 @@ This script relies on the following R packages:
 
 ## Example Output
 <img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Genus_byPhylum_sample_top10_relative_20260822.png" height = "600px"> <img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px"> 
+
+### Known Limitations & Roadmap
+* **Sorting behaviour:** A sorting issue currently affects one specific sorting mode; when this mode is active and certain other configurations are active, output ordering may be incorrect. This issue is documented and will be addressed in a future update.
+* **Modularization refactor:** The current workflow exposes a large number of configuration options in a single script. The workflow is functional, but future development will separate processing, taxonomy handling, calculation, and visualization into more modular components to improve usability and maintainability.
