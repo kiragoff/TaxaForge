@@ -30,7 +30,9 @@ This script relies on the following R packages:
 3. Run the script to generate and export the plot as a high-resolution PNG.
 
 ## Alternate Output
-<center><img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px"> </center>
+<center>
+  <img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px">
+</center>
 
 ### Known Limitations & Roadmap
 * **Sorting behaviour:** A sorting issue currently affects one specific sorting mode; when this mode is active and certain other configurations are active, output ordering may be incorrect. This issue is documented and will be addressed in a future update.
