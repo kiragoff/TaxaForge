@@ -6,7 +6,7 @@ If you've ever tried to carry out visualization of separate sequencing runs that
 
 I built this script to streamline the process. It's designed to be agnostic to upstream sequencing technique, addresses common bottlenecks like handling unclassified taxonomy, and provides flexible options for visualization and sample/taxa ordering.
 
-<img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Genus_byPhylum_sample_top10_relative_20260822.png" height = "600px"> 
+<center><img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Genus_byPhylum_sample_top10_relative_20260822.png" height = "600px"> </center>
 
 ## Core Features
 
@@ -30,7 +30,7 @@ This script relies on the following R packages:
 3. Run the script to generate and export the plot as a high-resolution PNG.
 
 ## Alternate Output
-<img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px"> 
+<center><img src = "https://github.com/kiragoff/TaxaForge/blob/main/figures/bubbleplot_boxed_Family_byPhylum_sample_top10_relative_withLabels_20260822.png" height = "600px"> </center>
 
 ### Known Limitations & Roadmap
 * **Sorting behaviour:** A sorting issue currently affects one specific sorting mode; when this mode is active and certain other configurations are active, output ordering may be incorrect. This issue is documented and will be addressed in a future update.
